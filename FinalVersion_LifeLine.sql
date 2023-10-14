@@ -1,5 +1,6 @@
 --create database LifeLine
 --use LifeLine
+
 create table Application_Admin(
 	AA_ID int primary key identity,
 	AA_UserName varchar(30),
